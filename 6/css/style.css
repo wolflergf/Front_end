@@ -1,0 +1,64 @@
+body {
+	background-color: black;
+}
+.corpo {
+	margin: 30vh 0 0 60vh;
+	height: 50vh;
+	width: 50vh;
+	background-color: red;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+}
+
+.o-one {
+	height: 10vh;
+	width: 10vh;
+	background-color: white;
+	border-radius: 50%;
+	transform: translateY(15vh);
+	margin-left: 10vh;
+}
+
+.c-o-one {
+	height: 5vh;
+	width: 5vh;
+	background-color: blue;
+	border-radius: 50%;
+	transform: translateY(4vh);
+	margin-left: 4vh;
+}
+
+.o-two {
+	height: 10vh;
+	width: 10vh;
+	background-color: white;
+	border-radius: 50%;
+	transform: translateY(5vh);
+	margin-left: 30vh;
+}
+
+.c-o-two {
+	height: 5vh;
+	width: 5vh;
+	background-color: blue;
+	border-radius: 50%;
+	transform: translateY(4vh);
+	margin-left: 4vh;
+}
+
+.saia {
+	display: flex;
+	margin-top: 15vh;
+}
+
+.tri-one {
+    border-left: 12.5vh solid transparent; 
+    border-right: 12.5vh solid transparent; 
+    border-bottom: 15vh solid black;
+}
+
+.tri-two {	
+    border-left: 12.5vh solid transparent; 
+    border-right: 12.5vh solid transparent; 
+    border-bottom: 15vh solid black;
+}
